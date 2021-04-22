@@ -1,0 +1,8 @@
+1-AdobeAcrobatReaderDC -ouverture du fichier pdf pour la conception du cv. 
+2-Google Chrome-Connexion sur le site de footmercato pour lire les informations sur la 33 journee des championnats europeens.
+3-Notpad++-utilisation du logiciel notpad++ pour la creation de la base de donnees.
+4-Microsoft Visio-j'utilise visio pour faire de la concevoir des classes,concevoir des tables et faire des diagrammes.*
+5-Visual studio 19-c'est avec visual studio 19 que je suis en train de developper mon projet de INF1034 avec le framework .NET CORE.
+6-Google Chrome-ouverture de google chrome pour se connecter sur le site de openclassroom.com pour etudier.
+7-Microsoft Word - je vais concevoir mon cv en format word.
+8-Notpad++-je vais ecrire mon code de html avec notpad++.    
