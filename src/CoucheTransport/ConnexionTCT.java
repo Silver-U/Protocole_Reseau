@@ -1,25 +1,54 @@
 package CoucheTransport;
 
-public class ConnexionTCT {
-    //private Etat etat;
-    private final String ETAT1 ="EN_ATTENTE_DE_COMFIRMATION_ETABLISSEMENT";
-    private final String ETAT2 ="CONNEXION_ETABLIE";
-    private int Id;
+public class ConnexionTCT
+{
+    private  Etat etat;
+    private byte numeroConnexion;
+    private byte addD;// todo utiliser avec des bytes
+    private byte addS;// todo utiliser avec des bytes
 
-    public int getId() {
-        return Id;
+    public ConnexionTCT (byte numeroConnexion, byte adresseSource, byte adresseDestination, String etat)
+    {
+        addD = adresseDestination;
+        addS = adresseSource;
+        this.etat = Etat.valueOf(etat);
+        this.numeroConnexion = numeroConnexion;
     }
 
-    public String getETAT1() {
-        return ETAT1;
+
+    public void setEtat(Etat etat)
+    {
+        this.etat = etat;
     }
 
-    public String getETAT2() {
-        return ETAT2;
+    public int getAddD()
+    {
+        return addD;
     }
 
-   public void setId(int id) {
-        Id = id;
+    public int getAddS()
+    {
+        return addS;
     }
 
+    public Etat getEtat()
+    {
+        return etat;
+    }
+
+    public int getNumeroConnexion()
+    {
+        return numeroConnexion;
+    }
+
+    @Override
+    public String toString()
+    {
+        return "ConnexionTCT{" +
+                "etat=" + etat +
+                ", numeroConnexion=" + numeroConnexion +
+                ", addD=" + addD +
+                ", addS=" + addS +
+                '}';
+    }
 }

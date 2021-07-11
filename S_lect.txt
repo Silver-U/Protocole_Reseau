@@ -1,8 +1,10 @@
-1-AdobeAcrobatReaderDC -ouverture du fichier pdf pour la conception du cv. 
-2-Google Chrome-Connexion sur le site de footmercato pour lire les informations sur la 33 journee des championnats europeens.
-3-Notpad++-utilisation du logiciel notpad++ pour la creation de la base de donnees.
-4-Microsoft Visio-j'utilise visio pour faire de la concevoir des classes,concevoir des tables et faire des diagrammes.*
-5-Visual studio 19-c'est avec visual studio 19 que je suis en train de developper mon projet de INF1034 avec le framework .NET CORE.
-6-Google Chrome-ouverture de google chrome pour se connecter sur le site de openclassroom.com pour etudier.
-7-Microsoft Word - je vais concevoir mon cv en format word.
-8-Notpad++-je vais ecrire mon code de html avec notpad++.    
+82-AdobeAcrobatReaderDC-234-60-N_CONNECT_req-ouverture du fichier pdf pour la conception du cv. 
+82-AdobeAcrobatReaderDC-234-60-N_CONNECT_req-ouverture du fichier pdf pour la conception du cv. 
+82-AdobeAcrobatReaderDC-234-60-N_DATA_req-ouverture du fichier pdf pour la conception du cv. 
+15-Google Chrome-45-22-N_DATA_req-Connexion sur le site de footmercato pour lire les informations sur la 33 journee des championnats europeens.
+32-Notpad++-7-9-N_CONNECT_req-utilisation du logiciel notpad++ pour la creation de la base de donnees.
+56-Microsoft Visio-9-2-N_CONNECT_req-j'utilise visio pour faire de la concevoir des classes,concevoir des tables et faire des diagrammes.
+63-Visual studio 19-168-190-N_DATA_req-c'est avec visual studio 19 que je suis en train de developper mon projet de INF1034 avec le framework .NET CORE.
+78-Google Chrome-200-96-N_DISCONNECT_req-ouverture de google chrome pour se connecter sur le site de openclassroom.com pour etudier.
+54-Microsoft Word -36-72-N_DATA_req- je vais concevoir mon cv en format word.
+78-Notpad++-192-115-N_DATA_req-je vais ecrire mon code de html avec notpad++.    
